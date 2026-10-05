@@ -6,10 +6,10 @@ For the last 5 years I've worked on some of the largest datasets in science, fir
 
 #### What I'm building
 
-- **[gnss-agent-pipeline](https://github.com/TU_USUARIO/gnss-agent-pipeline)**: agentic GNSS processing with LangGraph. LLM agents orchestrate RINEX quality control, IGS product retrieval, RTKLIB PPP/RTK positioning and a precision-check loop, with a FastAPI web interface and an auto-generated report.
-- **[apagon-mvp](https://github.com/TU_USUARIO/apagon-mvp)**: predicting power outages in Venezuela from alternative data (weather APIs and social media), with alerts delivered through a Telegram bot.
-- **[ml_gaia](https://github.com/TU_USUARIO/ml_gaia)**: machine learning classifier for supernova data.
-- **[DM_simplified](https://github.com/TU_USUARIO/DM_simplified)**: phenomenology tools from my PhD on dark matter mediators produced with top quarks.
+- **[gnss-agent-pipeline](https://github.com/echalbau/gnss-agent-pipeline)**: agentic GNSS processing with LangGraph. LLM agents orchestrate RINEX quality control, IGS product retrieval, RTKLIB PPP/RTK positioning and a precision-check loop, with a FastAPI web interface and an auto-generated report.
+- **[apagon-mvp](https://github.com/echalbau/apagon-mvp)**: predicting power outages in Venezuela from alternative data (weather APIs and social media), with alerts delivered through a Telegram bot.
+- **[ml_gaia](https://github.com/echalbau/ml_gaia)**: machine learning classifier for supernova data.
+- **[DM_simplified](https://github.com/echalbau/DM_simplified)**: phenomenology tools from my PhD on dark matter mediators produced with top quarks.
 
 #### Toolkit
 
