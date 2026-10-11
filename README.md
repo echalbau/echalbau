@@ -9,7 +9,7 @@ For the last 5 years I've worked on some of the largest datasets in science, fir
 - Built and maintain an automated batch pipeline on CERN's HTCondor grid: templated jobs, large parameter sweeps and reproducible runs.
 - Trained gradient-boosted and deep learning models for rare-event detection in noisy, highly imbalanced data.
 
-I've also processed multi-constellation GNSS data (Galileo, BeiDou) in the aerospace sector at Active Space Technologies.
+I've also processed multi-constellation GNSS data (Galileo, BeiDou) in the aerospace sector at Active Space Technologies, and participated as a lecturer in this project:  [Physics Latam](https://www.physicslatam.com/esteban-chalbaud)
 
 #### What I'm building
 
